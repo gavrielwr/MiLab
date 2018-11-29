@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EXERCISE_03</string>
+    <string-array name="quotes">
+        <item> When your only tool is a hammer, all problems start looking like nails. </item>
+        <item> 99 percent of lawyers give the rest a bad name. </item>
+        <item> I started with nothing, and I still have most of it. </item>
+        <item> The problem with trouble shooting is that trouble shoots back. </item>
+        <item> If you are here - who is running hell? </item>
+        <item> Treat each day as your last; one day you will be right. </item>
+
+    </string-array>
+
+</resources>
